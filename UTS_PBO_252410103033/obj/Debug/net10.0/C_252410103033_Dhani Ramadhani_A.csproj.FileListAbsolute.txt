@@ -1,0 +1,15 @@
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\bin\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.exe
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\bin\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.deps.json
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\bin\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.runtimeconfig.json
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\bin\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.dll
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\bin\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.pdb
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.AssemblyInfoInputs.cache
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.AssemblyInfo.cs
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.csproj.CoreCompileInputs.cache
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.dll
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\refint\C_252410103033_Dhani Ramadhani_A.dll
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.pdb
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410103033_Dhani Ramadhani_A.genruntimeconfig.cache
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\ref\C_252410103033_Dhani Ramadhani_A.dll
+D:\Document Kuliah Dhani\smt 3\UTS_PBO_252410103033\UTS_PBO_252410103033\obj\Debug\net10.0\C_252410.BA56F86A.Up2Date
